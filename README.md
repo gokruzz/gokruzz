@@ -47,7 +47,7 @@ Here are some of the key projects I've built through ALX:
 
 ### 📫 Let's Connect
 <p>
-  <a href="https://linkedin.com/in/yourlinkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="https://linkedin.com/in/temitopekoya" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
   <a href="https://twitter.com/19teen_dev" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge" /></a>
   <a href="mailto:johnsonodukoyatemitope@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge&logoColor=white"/></a>
 </p>
